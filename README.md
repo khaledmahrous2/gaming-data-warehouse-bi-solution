@@ -174,6 +174,6 @@ This solution enables gaming stakeholders to:
 
 ## Author
 
-Amin Mahrous
+KHAELD MAHROUS
 
 Data Engineering & Business Intelligence Project
